@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="INED" content="width=INED SAN MIGUEL, initial-scale=1.0">
+    <title>INED SAN MIGUEL</title>
+</head>
+<body style="background-color: rgba(1, 45, 55, 0.479);"></body>
+
+<H1 style="text-align:center;">INED SAN MIGUEL, POCHUTA CHIMALTENANGO</H1>
+   
+<H2 style="text-align:center;">Instituto de Bachilleratos con orientación en Educacion,Mecanica y computacion</H2>
+
+<p style="font-size:24px;"> El INED San Miguel es un Instituto donde los jovenes pueden estudiar
+el nivel de bachillerato. En este Establecimiento los estudiantes 
+reciben educacion para prepararse para su futuro y continuar con sus estudios
+es una institucion que ha sido de apoyo para la poblacion,
+para que los jovenes egresados de basico puedan seguir sus estudios de diversificado, 
+cuenta con varias carreras como: bachillerato en computacion,bachillerato en educacion y bachillerato en Mecanica, 
+esto beneficia a los jovenes para terminar sus estudios de diversificado en la comunidad
+ y evitar estar viajando diariamente a otro municipio. El instituto promueve valores
+como el respeto, la responsabilidad, la solidaridad y el trabajo en equipo.
+El INED San Miguel también se preocupa por fomentar valores humanos y sociales en sus estudiantes.
+ A lo largo de su formación, los jóvenes aprenden la importancia del respeto, la honestidad,
+  la responsabilidad y el trabajo en equipo. Estos valores ayudan a formar personas íntegras
+   que puedan aportar de manera positiva a su comunidad y a su país. Además, el ambiente educativo
+    del instituto busca motivar a los estudiantes a esforzarse cada día para alcanzar sus metas y convertirse en profesionales preparados.
+En conclusión, el Instituto Nacional de Educación Diversificada San Miguel representa una oportunidad importante para muchos jóvenes
+ que desean continuar con su formación académica. Gracias a las carreras de Bachillerato en Educación, Computación y Mecánica,
+  los estudiantes pueden desarrollar conocimientos, habilidades y valores que les servirán a lo largo de su vida. De esta manera,
+   el instituto contribuye a la formación de ciudadanos capaces, responsables y comprometidos con el desarrollo de la sociedad. .</p>
+<img src="https://th.bing.com/th/id/OIP.LApsGFWNAr_v9PRLSc_pTgHaEq?w=293&h=185&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"style="display:block;  margin:auto; margin-bottom:20px;" width="300">
+<img src="https://th.bing.com/th/id/OIP.-wuMCgh1W7D_xG9uD84mjwHaDt?w=326&h=175&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"style="display:block; margin:auto;"width="500">
+</body>
+</html>

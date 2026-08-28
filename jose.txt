@@ -1,0 +1,48 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+// Función que ordena usando el método Burbuja
+void ordenarBurbuja(vector<int>& lista) {
+    int n = lista.size();
+
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = 0; j < n - i - 1; j++) {
+
+            // Comparar elementos vecinos
+            if (lista[j] > lista[j + 1]) {
+
+                // Intercambio de valores
+                int temporal = lista[j];
+                lista[j] = lista[j + 1];
+                lista[j + 1] = temporal;
+            }
+        }
+    }
+}
+
+// Función para mostrar la lista
+void imprimirLista(const vector<int>& lista) {
+    for (int num : lista) {
+        cout << num << " ";
+    }
+    cout << endl;
+}
+
+int main() {
+
+    // Lista desordenada
+    vector<int> numeros = {5, 2, 4, 1, 3};
+
+    cout << "Lista original: ";
+    imprimirLista(numeros);
+
+    // Ordenamiento
+    ordenarBurbuja(numeros);
+
+    cout << "Lista ordenada: ";
+    imprimirLista(numeros);
+
+    return 0;
+}

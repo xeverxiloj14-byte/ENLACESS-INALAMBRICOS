@@ -1,0 +1,42 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+// Función de ordenamiento por selección
+void ordenarSeleccion(vector<int>& lista) {
+
+    int n = lista.size();
+
+    for (int i = 0; i < n - 1; i++) {
+
+        int minimo = i;
+
+        // Buscar el número más pequeño
+        for (int j = i + 1; j < n; j++) {
+
+            if (lista[j] < lista[minimo]) {
+                minimo = j;
+            }
+        }
+
+        // Intercambiar valores
+        int temporal = lista[i];
+        lista[i] = lista[minimo];
+        lista[minimo] = temporal;
+    }
+}
+
+// Función para imprimir la lista
+void imprimirLista(const vector<int>& lista) {
+
+    for (int num : lista) {
+        cout << num << " ";
+    }
+
+    cout << endl;
+}
+
+int main() {
+
+    vector<int> numeros = {9,

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Presentaciónes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+            color: white;
+            text-align: center;
+        }
+
+        h1 {
+            background: linear-gradient(90deg, #ff4b2b, #ff416c);
+            padding: 20px;
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+
+        h2 {
+            margin-top: 40px;
+            color: #00d4ff;
+        }
+
+        .contenedor {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 40px;
+            padding: 30px;
+        }
+
+        iframe {
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        iframe:hover {
+            transform: scale(1.03);
+            box-shadow: 0 0 30px rgba(255, 65, 108, 0.8);
+        }
+
+        a {
+            display: inline-block;
+            margin: 20px;
+            padding: 12px 25px;
+            background: linear-gradient(90deg, #00d4ff, #0072ff);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        a:hover {
+            background: linear-gradient(90deg, #ff416c, #ff4b2b);
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1> Juegos de educapley</h1>
+
+    <div class="contenedor">
+
+        <iframe allow="fullscreen; autoplay; allow-top-navigation-by-user-activation"
+        allowfullscreen width="795" height="690" frameborder="0"
+        src="https://es.educaplay.com/juego/28729679-cpu_basics_true_or_false.html"></iframe>
+
+        <iframe allow="fullscreen; autoplay; allow-top-navigation-by-user-activation"
+        allowfullscreen width="795" height="690" frameborder="0"
+        src="https://es.educaplay.com/juego/28729625-quiz_sobre_un_disco_duro.html"></iframe>
+
+        <iframe allow="fullscreen; autoplay; allow-top-navigation-by-user-activation"
+        allowfullscreen width="795" height="690" frameborder="0"
+        src="https://es.educaplay.com/juego/24565205-partes_internas_de_una_computadora.html"></iframe>
+
+    </div>
+
+    <h2>🎨 Presentación en Canva</h2>
+
+    <a href="https://canva.link/jbb1y9iakn9h4j6" target="_blank">
+        Ver presentación
+    </a>
+
+</body>
+</html>

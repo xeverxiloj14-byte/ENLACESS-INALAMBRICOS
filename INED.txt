@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="INED" content="width=INED SAN MIGUEL, initial-scale=1.0">
+    <title>Ined San Miguel</title>
+</head>
+<body style="background-color: rgba(44, 90, 44, 0.91);"></body>
+
+<H1 style="text-align:center;">INED SAN MIGUEL, POCHUTA CHIMALTENANGO</H1>
+   
+<H2 style="text-align:center;">Instituto de Bachilleratos con orientación en Educacion,Computación y Mecanica Automotriz</H2>
+
+<p style="font-size:24px;"> El Instituto Nacional de Educación Diversificada San Miguel es un establecimiento educativo que se caracteriza por brindar oportunidades de formación académica y técnica a los jóvenes que desean prepararse para su futuro profesional. Este instituto tiene como objetivo principal ofrecer una educación de calidad basada en valores, responsabilidad y compromiso, formando estudiantes capaces de enfrentar los retos de la sociedad actual.
+
+En el INED San Miguel se imparten diferentes carreras que permiten a los estudiantes desarrollar habilidades en diversas áreas. Entre ellas se encuentra el Bachillerato en Educación, una carrera orientada a la formación de jóvenes con vocación por la enseñanza y el trabajo con la niñez. Esta especialidad fortalece conocimientos pedagógicos, valores humanos y habilidades de comunicación que son fundamentales para quienes desean contribuir al desarrollo educativo de su comunidad.
+
+También se ofrece el Bachillerato en Computación, una carrera enfocada en el aprendizaje de herramientas tecnológicas, programación básica, manejo de software y conocimientos informáticos que son esenciales en el mundo moderno. Los estudiantes adquieren competencias digitales que les permiten desenvolverse en diferentes ámbitos laborales y continuar sus estudios superiores en áreas relacionadas con la tecnología.
+
+Otra de las carreras importantes que se imparten en el instituto es el Bachillerato en Mecánica, donde los estudiantes aprenden sobre el funcionamiento, mantenimiento y reparación de diferentes tipos de maquinaria y sistemas mecánicos. Esta especialidad combina conocimientos teóricos con prácticas técnicas, permitiendo que los estudiantes desarrollen habilidades útiles para el trabajo técnico y la industria.
+
+Gracias a estas opciones académicas, el INED San Miguel se convierte en un lugar donde los estudiantes pueden descubrir sus talentos y prepararse para el futuro. Además de la formación académica, el instituto promueve valores como el respeto, la disciplina, la responsabilidad y el trabajo en equipo, los cuales son fundamentales para formar ciudadanos comprometidos con el desarrollo de su comunidad.</p>
+<img src="https://th.bing.com/th/id/OIP.LApsGFWNAr_v9PRLSc_pTgHaEq?w=293&h=185&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3"style="display:block;  margin:auto; margin-bottom:20px;" width="300">
+</body>
+</html>

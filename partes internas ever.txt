@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Partes Internas de la Computadora</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #dfefff;
+            margin: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #3b6ea5;
+            color: white;
+            padding: 15px;
+        }
+
+        section {
+            margin: 20px auto;
+            width: 80%;
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        img {
+            width: 320px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+
+        a {
+            display: inline-block;
+            margin: 8px;
+            padding: 8px 15px;
+            background-color: #3b6ea5;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            background-color: #2a4f7a;
+        }
+
+        footer {
+            background-color: #3b6ea5;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Partes Internas de la Computadora</h1>
+</header>
+
+<section>
+    <h2>¿Qué son?</h2>
+    <p>
+        Las partes internas de una computadora son los componentes que se encuentran dentro del CPU 
+        y permiten que el equipo funcione correctamente. Entre las más importantes están la placa madre, 
+        el procesador, la memoria RAM y el disco duro.
+    </p>
+
+    <img src="https://th.bing.com/th/id/OIP.Y_MAME7mdgjCGbkueGN6ywHaFi?w=245&h=184&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3">
+
+    <p>
+        El procesador es el encargado de realizar los cálculos, la memoria RAM almacena datos temporales 
+        y el disco duro guarda la información de manera permanente.
+    </p>
+</section>
+
+<section>
+    <h2>Actividades Interactivas</h2>
+
+    <a href="https://www.educaplay.com/learning-resources/28734005-ordena_la_lectura_de_una_celda_de_ram.html" target="_blank">
+        Actividad RAM
+    </a>
+
+    <a href="https://www.educaplay.com/learning-resources/28315061-partes_internas_de_una_computadora.html" target="_blank">
+        Partes internas
+    </a>
+
+    <a href="https://es.educaplay.com/recursos-educativos/28738858-partes_internas_de_la_computadora.html" target="_blank">
+        Computadora
+    </a>
+
+    <a href="https://canva.link/k9fgew0j0621jg4" target="_blank">
+        Ver Canva
+    </a>
+
+</section>
+
+<footer>
+    <p>Trabajo de Computación</p>
+</footer>
+
+</body>
+</html>
